@@ -1,4 +1,6 @@
-In this assignment, I have implement the kinematic bicycle model. The model accepts velocity and steering rate inputs and steps through the bicycle kinematic equations. 
+# Kinematic Bicycle Model
+
+In this assignment, kinematic bicycle model has been implemented. The model accepts velocity and steering rate inputs and steps through the bicycle kinematic equations. 
 Once the model is implemented, a set of inputs was provided to drive the bicycle in a figure eight (8) trajectory.
 
 The bicycle kinematics are governed by the following set of equations:
